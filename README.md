@@ -1,0 +1,23 @@
+# 網站模板 10
+
+***
+
+- 預覽: [Github.io](https://pardnchiu.github.io/website-template-10)
+- 源碼: [Github.com](https://github.com/pardnchiu/website-template-10)
+- 授權: [MIT LICENSE](https://github.com/pardnchiu/website-template-10/blob/main/LICENSE)
+- 開發: [Pardn Chiu](https://joball.tw/@pardnltd)
+
+***
+
+- 工具: Html, Css/Sass, Javascript
+- 圖示: [Font Awesome 6](https://fontawesome.com/v6/search)
+
+***
+
+| index |
+|---|
+| ![T001](./image/index.jpg) |
+
+***
+
+Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
