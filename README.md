@@ -4,7 +4,7 @@
 
 # Website Template 網站模板 10
 
-- Html, Css / Sass, Javascript, [Font Awesome 6](https://fontawesome.com/v6/search), [Freepik](https://www.freepik.com)
+- Html, Css / Sass, Javascript, [Font Awesome 6](https://fontawesome.com/v6/search)
 - Pardn Chiu 邱敬幃
 - [https://joball.tw/@pardnltd](https://joball.tw/@pardnltd)
 - [https://www.linkedin.com/in/pardnchiu](https://www.linkedin.com/in/pardnchiu)
